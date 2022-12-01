@@ -1,20 +1,20 @@
 <h1>🎨 FrontEnd</h1>
-React.JS - Typescript
-JavaScript (ES6)
-Styled-Components, SASS, Figma
-Context API
+<li>React.JS - Typescript</li>
+<li>JavaScript (ES6)</li>
+<li>Styled-Components, SASS, Figma</li>
+<li>Context API</li>
 
 <h1>💻 Back-End</h1>
-C#
-Node JS 
-PHP, MySQL
-Firebase
+<li>C#</li>
+<li>Node JS </li>
+<li>PHP, MySQL</li>
+<li>Firebase</li>
 
 <h1>🙌 Management</h1>
-Méthodologie Agile SCRUM
-Git – GitHub Flow
+<li>Méthodologie Agile SCRUM</li>
+<li>Git – GitHub Flow</li>
 
 <h1>👂 Soft Skills</h1>
-Très autonome (Autodidacte)
-Positif et pragmatique
-Persévérant
+<li>Très autonome (Autodidacte)</li>
+<li>Positif et pragmatique</li>
+<li>Persévérant</li>
