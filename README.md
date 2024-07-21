@@ -1,8 +1,8 @@
 <h1>🎨 FrontEnd</h1>
-<li>React.JS - Typescript</li>
+<li>React.JS - Next.JS - Typescript</li>
 <li>JavaScript (ES6)</li>
-<li>Styled-Components, SASS, Figma</li>
-<li>Context API</li>
+<li>Styled-Components,Tailwind, SASS, Figma</li>
+<li>Context API,Redux Toolkit</li>
 
 <h1>💻 Back-End</h1>
 <li>C#</li>
