@@ -8,9 +8,7 @@
 
 <h1>💻 Back-End</h1>
 <ul>
-  <li>C# (.NET)</li>
-  <li>Node.js</li>
-  <li>PHP & MySQL</li>
+  <li>Node.js (Express / Fastify )</li>
   <li>Firebase</li>
 </ul>
 
